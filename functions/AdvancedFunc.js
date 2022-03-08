@@ -54,4 +54,4 @@ const logAllNumbers=(x, ...nums)=>{
    console.log(nums)
 }
 
-logAllNumbers(2,4,5,6,7)
+logAllNumbers(2,4,5,6,7);
